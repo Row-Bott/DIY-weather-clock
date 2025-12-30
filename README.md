@@ -4,3 +4,16 @@ esp01s DIY weather clock that ca be purchased for low cost but has Chinese firmw
 At the time of writing (30 Dec '25), it requires a slight tweak for resetting the Wi-Fi.
 
 I have written some major UK cities and local ones for my kids. 
+
+
+********************************
+*Flashing the ESP01S           *
+********************************
+
+My methdod was using a spare RPi (Zero 2W) and SSH into it. If required I will add the details how I did this at a later date. 
+
+As the ESP01S uses the same 3.3V the RPI Wi-Fi uses it draws more current than the board can handle and drops out. This fix for this is to use the AMS117S 3.3V power on the weather clock board. This way it stops the current draw issues.
+
+When flashing 
+
+***Upload pictures to show***.
