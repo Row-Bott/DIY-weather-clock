@@ -1,4 +1,7 @@
 # DIY-weather-clock
+
+A DIY ESP‑01S weather clock with OLED display, Wi‑Fi setup portal, location selection, and user‑friendly reset options
+
 esp01s DIY weather clock that ca be purchased for low cost but has Chinese firmware on it that forces you to sign up to their sites. I have written this code to have no sign up whatsoever. 
 
 At the time of writing (30 Dec '25), it requires a slight tweak for resetting the Wi-Fi.
