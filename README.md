@@ -8,10 +8,9 @@ At the time of writing (30 Dec '25), it requires a slight tweak for resetting th
 
 I have written some major UK cities and local ones for my kids. 
 
-https://github.com/Row-Bott/DIY-weather-clock/blob/main/images/DIY%20Weather%20Clock_1.png
+https://github.com/Row-Bott/DIY-weather-clock/blob/main/images/DIY%20Weather%20Clock%201.png
 
-Markdown
-![Weather Clock] [https://github.com/Row-Bott/DIY-weather-clock/blob/main/images/DIY%20Weather%20Clock_2.png](https://github.com/Row-Bott/DIY-weather-clock/blob/main/images/DIY%20Weather%20Clock_2.png)
+https://github.com/Row-Bott/DIY-weather-clock/blob/main/images/DIY%20Weather%20Clock%202.png
 
 
 ********************************
